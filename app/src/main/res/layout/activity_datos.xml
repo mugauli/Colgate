@@ -6,6 +6,10 @@
     android:background="@drawable/fondorojo"
     tools:context="net.grapesoft.www.colgate.MainActivity">
 
+
+
+
+
     <ImageView
         android:src="@drawable/fondo"
         android:scaleType="fitCenter"
